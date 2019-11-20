@@ -2,7 +2,9 @@
 ## Overview
 This is the repo for a team project in SQL to analyze data on the App and Play store apps and provide purchase recommendations as well as future purchase guildlines for a fictional company (App Trader) in a brief presentation.
 ## Project Takeaways
-This was a really great dataset to work with while learning to clean data in Postgres SQL. Mostly it was numerical data categorized as text that had to be dealt with, with a little VarChar thrown in for taste. A pretty tricky join got me worked up for a while but I think I came up with a satisfactory solution. You can see the entire presentation [here](https://docs.google.com/presentation/d/10m9EMR5GmpJo3i1XpZSK9fqdQdf18LxYG6TcYbMmouU/edit?usp=sharing).
+This was a really great dataset to work with while learning to clean data in Postgres SQL. Mostly it was numerical data categorized as text that had to be dealt with, with a little VarChar thrown in for taste. A pretty tricky join got me worked up for a while but I think I came up with a satisfactory solution. 
+![title slide](https://user-images.githubusercontent.com/52726447/69202570-ae968c80-0b07-11ea-8235-9f80c0f3f428.png)
+You can see the entire presentation [here](https://docs.google.com/presentation/d/10m9EMR5GmpJo3i1XpZSK9fqdQdf18LxYG6TcYbMmouU/edit?usp=sharing).
 
 ## The Pitch
 You have been hired by a new company called App Trader to help them explore and gain insights from apps that are made available through the Apple App Store and Android Play Store. App Trader will serve as a broker buying apps from developers then deploying and marketing them.
