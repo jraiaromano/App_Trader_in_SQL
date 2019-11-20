@@ -1,0 +1,1 @@
+# App_Trader_in_SQL
